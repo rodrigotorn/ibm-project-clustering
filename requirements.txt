@@ -1,0 +1,8 @@
+pandas
+jupyterlab
+jupytext
+geopy
+matplotlib
+sklearn
+folium
+bs4
